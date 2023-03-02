@@ -8,8 +8,6 @@
 
 <h3>• I am from Argentina 🇦🇷 </h3> 
 
-<h3>• Free Nara codes 🔥</h3>
-
 <h1 align="center">🧾 Stats</h1>
 
 ![Wez's stats](https://github-readme-stats.vercel.app/api?username=imwezzz&theme=github_dark&show_icons=true) 
