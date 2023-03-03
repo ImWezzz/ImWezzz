@@ -2,7 +2,7 @@
 
 <h3>• Discord bot developer 🛠️ </h3> 
   
-<h3>• Waffle & Nara bot developer 🎈 </h3> 
+<h3>• Willow & Nara bot developer 🎈 </h3> 
 
 <h3>• Moonlight Official Member 🌙 </h3> 
 
