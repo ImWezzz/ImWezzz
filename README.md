@@ -17,6 +17,6 @@
 
 ![Wez's stats](https://github-readme-stats.vercel.app/api?username=imwezzz&theme=github_dark&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwezzz&layout=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImWezzz&layout=compact)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/759233882926350346?borderRadius=20px&hideDiscrim=true&theme=tokyonight)](https://discord.com/users/759233882926350346)
