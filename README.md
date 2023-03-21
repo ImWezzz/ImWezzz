@@ -12,7 +12,7 @@
 
 # Projects
 
-[Willow Bot](https://dsc.gg/willow-bot) ・ [Willow web](https://willowbot.munlai.fun)
+[Willow Bot](https://dsc.gg/willow-bot) ・ [Willow web](https://willowbot.munlai.fun) ・ [Willow server](https://discord.gg/ynNWwPRgv2)
 
 [Nara Bot](https://discord.com/oauth2/authorize?client_id=977278077539323984&permissions=1377409760503&scope=bot)
 
