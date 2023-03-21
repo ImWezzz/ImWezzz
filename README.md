@@ -19,7 +19,7 @@
 
 ---
 
-**Social networks**
+# Social networks
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/759233882926350346) [![Instagram](https://img.shields.io/badge/Instagram-e91e63?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wezz_dev)
 
