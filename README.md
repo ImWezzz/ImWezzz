@@ -12,9 +12,9 @@
 
 # Projects
 
-[Waffle Bot](https://dsc.gg/wafflee-bot) ・ [Waffle server](https://discord.gg/ynNWwPRgv2)
+[Lucca Bot](https://dsc.gg/luca-bot) ・ [Lucca server](https://discord.gg/ynNWwPRgv2)
 
-[Nara Bot](https://discord.com/oauth2/authorize?client_id=977278077539323984&permissions=1377409760503&scope=bot)
+[Nara Bot](https://discord.com/oauth2/authorize?client_id=977278077539323984&permissions=1377409760503&scope=bot) ・ [Nara Server](https://discord.gg/5FAvD6a92b)
 
 
 ---
