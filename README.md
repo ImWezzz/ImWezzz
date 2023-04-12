@@ -10,9 +10,7 @@
 
 - 😅 I am learning more English 
 
-- 🎧 Favorite music (It is in Spanish): [Lento • Santy P](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb?highlight=spotify:track:4uBtsdMMC7toM7DFV08uie)
-
-- 🎮 Favorite videogame: [Days Gone](https://store.steampowered.com/app/1259420/Days_Gone/) and [Clash Royale](https://clashroyale.com/)
+- 🎧 Favorite music: [Lento • Santy P](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb?highlight=spotify:track:4uBtsdMMC7toM7DFV08uie)
 
 ---
 
