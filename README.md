@@ -8,7 +8,7 @@
 
 - ✨ I like listening to music and playing video games
 
-- 😅 I am learning more English 
+- 😴 idk
 
 ---
 
