@@ -10,8 +10,6 @@
 
 - 😅 I am learning more English 
 
-- 🎧 Favorite music: [Lento • Santy P](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb?highlight=spotify:track:4uBtsdMMC7toM7DFV08uie)
-
 ---
 
 ## Projects
