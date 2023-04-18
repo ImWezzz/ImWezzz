@@ -40,4 +40,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/759233882926350346?borderRadius=20px&hideDiscrim=true&theme=tokyonight)](https://discord.com/users/759233882926350346)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwezzz&layout=compact&langs_count=7&theme=tokyonight&card_width=550)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwezzz&layout=compact&langs_count=7&theme=tokyonight)
