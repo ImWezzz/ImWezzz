@@ -8,8 +8,6 @@
 
 - ✨ I like listening to music and playing video games
 
-- 😴 I'm boring
-
 ---
 
 ## Discord Bots
