@@ -5,15 +5,15 @@
 I'm Wez, I am 14 years old. I am from Argentina, Buenos Aires. I like to listening to music, playing video games, create websites, and Discord bots.
 My favorite food is spaghetti and hamburgers. My favorite music is [Trance (with Travis Scott & Young Thug)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J?si=751a44b678954f8a)
 
-I use Python & JavaScript for create discord bots. Oh, and learning TypeScript too. My bots are named **Willow** (Python) and **Nara** (JavaScript). I joined Discord in September 2020 to play with my friends, but wow! I ended up developing Discord bots.
+I use Python & JavaScript for create discord bots. Oh, and learning TypeScript too. My bots are named **Tidus** (Python) and **Nara** (JavaScript). I joined Discord in September 2020 to play with my friends, but wow! I ended up developing Discord bots.
 
 ---
 
 ## Projects
 
-[Lucca Bot](https://dsc.gg/willow-bot)
+[Tidus Bot](https://dsc.gg/tidus-bot)
 
-[Nara Bot](https://discord.com/oauth2/authorize?client_id=977278077539323984&permissions=1377409760503&scope=bot)
+[Nara Bot](nara-bot)
 
 [Freez Community](https://discord.gg/MMm4SxmtUp)
 
