@@ -2,10 +2,7 @@
 
 ---
 
-I'm Wez, I am 14 years old. I am from Argentina, Buenos Aires. I like to listening to music, playing video games, create websites, and Discord bots.
-My favorite food is spaghetti and hamburgers. My favorite music is [Trance (with Travis Scott & Young Thug)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J?si=751a44b678954f8a)
-
-I use Python & JavaScript for create discord bots. Oh, and learning TypeScript too. My bots are named **Tidus** (Python) and **Nara** (JavaScript). I joined Discord in September 2020 to play with my friends, but wow! I ended up developing Discord bots.
+Soon 
 
 ---
 
