@@ -12,8 +12,6 @@ Soon
 
 [Nara Bot](nara-bot)
 
-[Freez Community](https://discord.gg/MMm4SxmtUp)
-
 
 ---
 
