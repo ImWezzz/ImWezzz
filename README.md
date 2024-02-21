@@ -8,7 +8,7 @@ Soon
 
 ## Projects
 
-[Tidus Bot](https://dsc.gg/tidus-bot)
+[Marvin Bot](https://discord.com/api/oauth2/authorize?client_id=779489579392040960&permissions=8&scope=bot)
 
 [Nara Bot](nara-bot)
 
@@ -17,8 +17,8 @@ Soon
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/759233882926350346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wezdev" height="30" width="40" /></a>
-<a href="https://instagram.com/wezz_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wezdev" height="30" width="40" /></a> <a href="https://twitter.com/ImWezzz" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wezdev" height="30" width="40" /> </a> <a href="https://mail.google.com/mail/u/2/#search/imwezcontact%40gmail.com?compose=new" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://discord.com/users/508677136207314984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wezdev" height="30" width="40" /></a>
+<a href="https://instagram.com/wezbtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wezdev" height="30" width="40" /></a> <a href="https://twitter.com/wezbtw" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wezdev" height="30" width="40" /> </a> <a href="https://mail.google.com/mail/u/2/#search/imwezcontact%40gmail.com?compose=new" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
 
 </p>
 
@@ -32,6 +32,6 @@ Soon
 ## Stats
 ![Profile views](https://komarev.com/ghpvc/?username=ImWezzz) 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/759233882926350346?borderRadius=20px&hideDiscrim=true&theme=tokyonight)](https://discord.com/users/759233882926350346)
+[![Discord Presence](https://lanyard.cnrad.dev/api/759233882926350346?borderRadius=20px&hideDiscrim=true&theme=tokyonight)](https://discord.com/users/508677136207314984)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwezzz&layout=compact&langs_count=7&theme=tokyonight)
