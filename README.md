@@ -32,6 +32,6 @@ Soon
 ## Stats
 ![Profile views](https://komarev.com/ghpvc/?username=ImWezzz) 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/759233882926350346?borderRadius=20px&hideDiscrim=true&theme=tokyonight)](https://discord.com/users/508677136207314984)
+[![Discord Presence](https://lanyard.cnrad.dev/api/508677136207314984?borderRadius=20px&hideDiscrim=true&theme=tokyonight)](https://discord.com/users/508677136207314984)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imwezzz&layout=compact&langs_count=7&theme=tokyonight)
